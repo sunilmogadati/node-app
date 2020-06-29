@@ -3,7 +3,8 @@
 set -x
 
 echo "SUI: Change to node-app dir"
-cd ~/node-app
+#cd ~/node-app
+echo $(pwd)
 echo "SUI: Git pull"
     git pull origin master
 echo "SUI: install node"
