@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -x
+
 echo "Change to node-app dir"
 cd ~/node-app
 echo "Git pull"
