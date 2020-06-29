@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "Change to app dir"
+echo "Change to node-app dir"
 cd ~/node-app
 echo "Git pull"
     git pull origin master
