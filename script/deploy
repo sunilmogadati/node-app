@@ -2,7 +2,7 @@
 
 set -x
 
-echo "SUI: Change to node-app dir"
+echo "SUI: Change to node-app diri to start"
 cd /home/ubuntu/node-app
 echo $(pwd)
 echo "SUI: Git pull"
