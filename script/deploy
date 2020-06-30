@@ -3,7 +3,7 @@
 set -x
 
 echo "SUI: Change to node-app diri to start"
-cd /home/ubuntu/node-app
+#cd /home/ubuntu/node-app
 echo $(pwd)
 echo "SUI: Git pull"
     git pull origin master
